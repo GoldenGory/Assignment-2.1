@@ -21,7 +21,7 @@ document.getElementById("GirRollsRes").innerHTML = girrollsdice1;
     document.getElementById("die1res").innerHTML = + die1;
     document.getElementById("die2res").innerHTML = + die2;
 
-    //Belos, I then grab both the sum of both my dice variables. I ask the code to use addition
+    //Below, I then grab both the sum of both my dice variables. I ask the code to use addition
     // (num + num), in order to give me the total of those variables saved previously.
     //In the case of my gir roll, it doesn't require any math, as gir only has one 12-sided dice 
     //(we can pretend it's two 6-sided dice, though. I didn't think it would be necessary to give him more)
